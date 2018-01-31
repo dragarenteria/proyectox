@@ -56,7 +56,7 @@
 </header>
 
 		<div id="contenedor" style="min-height: 701px;">
-      
+      asdfasdfasdgadfgsdfgsdfgs
       <?php 
                    $mod = @$_GET['modulo'];
                    $archivo = $mod.'/index.php';
